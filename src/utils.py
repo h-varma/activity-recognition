@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import itertools
 
 def one_hot(y_):
     # Function to encode output labels from number indexes 
